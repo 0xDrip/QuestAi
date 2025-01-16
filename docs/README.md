@@ -1,12 +1,12 @@
-# 🤖 SolQuestAI
+# 🤖 QuestAI
 
 Page description (optional)
 
-# SolQuestAI System Documentation
+# QuestAI System Documentation
 
 ## Overview
 
-SolQuestAI is a sophisticated swarm-based AI system that creates interactive D&D adventures with a Web3 twist. The system orchestrates a swarm of specialized AI agents working in concert, combining advanced language models, social media integration, and blockchain concepts to deliver an engaging storytelling experience.
+QuestAI is a sophisticated swarm-based AI system that creates interactive D&D adventures with a Web3 twist. The system orchestrates a swarm of specialized AI agents working in concert, combining advanced language models, social media integration, and blockchain concepts to deliver an engaging storytelling experience.
 
 ## Swarm Architecture
 
